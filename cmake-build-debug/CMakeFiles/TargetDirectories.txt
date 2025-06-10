@@ -1,0 +1,3 @@
+C:/Users/Renan/CLionProjects/chatbotcpp/cmake-build-debug/CMakeFiles/chatbotcpp.dir
+C:/Users/Renan/CLionProjects/chatbotcpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Renan/CLionProjects/chatbotcpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
