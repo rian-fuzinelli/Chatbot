@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\chatbotcpp.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Renan\\CLionProjects\\chatbotcpp\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\chatbotcpp.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

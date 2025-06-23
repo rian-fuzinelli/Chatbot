@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\chatbotcpp.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\chatbotcpp.dir\ChatBot.cpp.obj: dyndep
+

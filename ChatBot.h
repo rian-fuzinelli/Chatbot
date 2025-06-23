@@ -1,7 +1,8 @@
 #ifndef CHATBOT_H
 #define CHATBOT_H
-#include <map>
+
 #include <string>
+#include <map>
 #include <vector>
 
 using namespace std;
@@ -12,14 +13,16 @@ private:
     vector<string> history;
     string nameBot;
 
-    string upperMessage(string text);
+    string forLowercase(string text);
     string cleanInput(string input);
-    void addToHistory(const string& user, string& message);
+    void addToHistory(const string& user, const string& message);
     void initializeAnswers();
 
+public:
+    ChatBot(const string& name);
+    string processInput(const string& userInput);
+    void showHistory();
+    void start();
 };
 
-
-
-#endif //CHATBOT_H
-
+#endif // CHATBOT_H

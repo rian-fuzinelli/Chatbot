@@ -1,0 +1,18 @@
+# ninja log v6
+61	1701	7723424472350241	build.ninja	b224d8b282b8ec42
+79	651	7723424477820214	CMakeFiles/chatbotcpp.dir/ChatBot.cpp.obj.ddi	6652d9b94ff61cec
+72	656	7723424477750217	CMakeFiles/chatbotcpp.dir/main.cpp.obj.ddi	7f2ac02ec9529fbe
+657	801	7723424484910211	CMakeFiles/chatbotcpp.dir/CXX.dd	84d880ecea53b1cf
+657	801	7723424484910211	C:/Users/Renan/CLionProjects/chatbotcpp/cmake-build-debug/CMakeFiles/chatbotcpp.dir/CXXModules.json	84d880ecea53b1cf
+657	801	7723424484910211	CMakeFiles/chatbotcpp.dir/main.cpp.obj.modmap	84d880ecea53b1cf
+657	801	7723424484910211	CMakeFiles/chatbotcpp.dir/ChatBot.cpp.obj.modmap	84d880ecea53b1cf
+824	3058	7723424485270202	CMakeFiles/chatbotcpp.dir/main.cpp.obj	ae04be3d18dfc09c
+830	3892	7723424485330228	CMakeFiles/chatbotcpp.dir/ChatBot.cpp.obj	16cc158b43384635
+3892	4856	7723424515945498	chatbotcpp.exe	9a6bf4558fc0bedc
+19	285	7723427926592062	CMakeFiles/chatbotcpp.dir/ChatBot.cpp.obj.ddi	6652d9b94ff61cec
+292	366	7723427929312083	CMakeFiles/chatbotcpp.dir/CXX.dd	84d880ecea53b1cf
+292	366	7723427929312083	C:/Users/Renan/CLionProjects/chatbotcpp/cmake-build-debug/CMakeFiles/chatbotcpp.dir/CXXModules.json	84d880ecea53b1cf
+292	366	7723427929312083	CMakeFiles/chatbotcpp.dir/main.cpp.obj.modmap	84d880ecea53b1cf
+292	366	7723427929312083	CMakeFiles/chatbotcpp.dir/ChatBot.cpp.obj.modmap	84d880ecea53b1cf
+368	2487	7723427930072046	CMakeFiles/chatbotcpp.dir/ChatBot.cpp.obj	16cc158b43384635
+2487	2870	7723427951262037	chatbotcpp.exe	9a6bf4558fc0bedc
