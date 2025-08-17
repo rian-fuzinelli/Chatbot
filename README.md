@@ -1,1 +1,1 @@
-A simple C++ Chatbot for daily interactions
+A simple C++ Chatbot for some interactions
